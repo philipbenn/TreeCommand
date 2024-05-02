@@ -1,0 +1,1 @@
+Lavet meget simpelt i java, hvis man bare kører programmet i sit IDE burde man få en visuel repræsantation af et tree. Jeg har lavet det sådan så at træet er lavet på baggrund af mappestrukturen i mit spring projekt.
